@@ -1,4 +1,4 @@
-# Git Merge Conflicts
+git merge doc-brown -m "merge doc brown"# Git Merge Conflicts
 
 ## Learning Goals
 
